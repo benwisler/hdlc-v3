@@ -1,0 +1,22 @@
+#login{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    text-align: center;
+}
+
+#signup {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    text-align: center;
+}
+
+#username, #password {
+    margin: 0 auto;
+}
+
+.form-input {
+    margin: 0 auto
+}
+#usernameDiv, #signUpDiv {
+    margin: 0 auto
+}

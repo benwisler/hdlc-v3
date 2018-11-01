@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+#navMargin{
+    margin-bottom: 5vh;
+}
+
+#navText {
+    font-family: 'Righteous', cursive;
+    font-size: 1.5em;
+    display: inline-block;
+    color: limegreen
+}
+
+#contain {
+    width: 80vw;
+}
+
+#logFormat{
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+.navigation {
+    display: space-around;
+}
+
+.logoutBtn {
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.loginBtn {
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.signupBtn {
+    margin-top: 20px;
+}

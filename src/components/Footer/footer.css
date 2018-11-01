@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+#footText{
+    font-family: 'Raleway', sans-serif;
+}
+
+#foot{
+    background-color: rgba(201, 201, 201, 0.87);
+    color:rgb(71, 71, 71);
+    margin-top: 5vh;
+    padding-top:2vh;
+    position: fixed bottom;
+}
